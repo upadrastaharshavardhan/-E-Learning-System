@@ -41,33 +41,27 @@ The goal of this application is to manage the Students, Teachers, Courses and va
 **List of modules with use cases:**<br>
 This Java project consists of 3 major modules
 *  ***Admin***<br>
-  *	Login: Admin can login using credentials.
-  * Manage Faculty:  Admin can manage faculties.
-  * Manage Student: Admin can manage students. 
-  * View Projects: Admin can view projects uploaded by students.
+  *	Login: Admin can login using credentials.<br>
+  * Manage Faculty:  Admin can manage faculties.<br>
+  * Manage Student: Admin can manage students. <br>
+  * View Projects: Admin can view projects uploaded by students.<br>
 <br>
 *  ***Teacher***<br>
-   *  Signup<br>
-   *  Teacher Login with Username & Password<br>
-   *  View Profile<br>
-   *  View Account Information<br>
-   *  Delete Account<br>
-   *  Manage Account (Change email, change name, change profile, change password)<br>
-   *  Teacher Adds Course<br>
-   *  View My Students in a Particular course.<br>
-   *  View My Courses<br>
-   *  Update My Course<br>
-   *  Logout<br>
+  * Login: Faculty can login his account using id and password.<br>
+  * Documentation:  Faculty can do documentation <br>
+  *	Upload: Faculty can upload documents<br>
+  *	View: Faculty can view all the documents<br
+  *	View Projects: Faculty can view projects uploaded by students.<br>
+<br>
 *  ***Student***<br>
-   *  Signup<br>
-   *  Student Login with Username & Password<br>
-   *  View Profile<br>
-   *  View Account Information<br>
-   *  Delete Account<br>
-   *  Manage Account (Change email, change name, change profile, change password)<br>
-   *  Student Enrols Courses<br>
-   *  Student Study Courses<br>
-   *  Student Withdraw Courses<br>
-   *  Student Views Participants in a particular course.<br>
-   *  Student can Message any participant in a particular course except Teacher.<br>
-   *  Logout<br>
+   *	Login: User can login his account using id and password. <br>
+   *	Main Menu: User will have access of main menu.<br>
+   *	Calendar: Can see the calendar<br>
+   *	Projects:  user can view the projects.<br>
+   *	My Project: user can see previous uploaded projects.<br>
+  *	Documentation: User can do documentation.<br>
+  *	Upload: User can upload the documents and project.<br>
+  *	View: user can also view the documentation.<br>
+  *	Knowledge: User read the knowledge articles uploaded.<br>
+  *	Chat: User can chat to obtain information
+<br>
