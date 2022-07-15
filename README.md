@@ -41,10 +41,10 @@ The goal of this application is to manage the Students, Teachers, Courses and va
 **List of modules with use cases:**<br>
 This Java project consists of 3 major modules
 *  ***Admin***<br>
-   •	Login: Admin can login using credentials.
-•	Manage Faculty:  Admin can manage faculties.
-•	Manage Student: Admin can manage students.
-•	View Projects: Admin can view projects uploaded by students.
+  *	Login: Admin can login using credentials.
+  * Manage Faculty:  Admin can manage faculties.
+  * Manage Student: Admin can manage students. 
+  * View Projects: Admin can view projects uploaded by students.
 <br>
 *  ***Teacher***<br>
    *  Signup<br>
