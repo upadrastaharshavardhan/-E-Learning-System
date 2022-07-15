@@ -46,14 +46,14 @@ This Java project consists of 3 major modules
   * Manage Student: Admin can manage students. <br>
   * View Projects: Admin can view projects uploaded by students.<br>
 <br>
-*  # Teacher*<br>
+*  ***teacher***<br>
   * Login: Faculty can login his account using id and password.<br>
   * Documentation:  Faculty can do documentation <br>
   *	Upload: Faculty can upload documents<br>
   *	View: Faculty can view all the documents<br
   *	View Projects: Faculty can view projects uploaded by students.<br>
 <br>
-*  ***Student***<br>
+*  ***student***<br>
    *	Login: User can login his account using id and password. <br>
    *	Main Menu: User will have access of main menu.<br>
    *	Calendar: Can see the calendar<br>
