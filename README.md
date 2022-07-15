@@ -22,7 +22,7 @@ It helps produce database systems:<br>
 **Architecture Description** <br>
 The design of a DBMS depends on its architecture. It can be centralized or decentralized or hierarchical. The architecture of a DBMS can be seen as either single tier or multi-tier.<br><br>
 **ER Diagram**
-![image.png](diagrams/ER_Diagram.jpg)
+![image.jpg](https://github.com/upadrastaharshavardhan/-E-Learning-System/blob/main/diagram/ER_Diagram.jpg)
 
 Fig 1: ER Diagram <br><br>
 An entity–relationship model describes interrelated things of interest in a specific domain of knowledge (Refer Fig 1). It is composed of entity types and specifies relationships that can exist between instances of those entity types.
