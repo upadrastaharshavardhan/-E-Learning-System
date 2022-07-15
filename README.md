@@ -61,9 +61,9 @@ This Java project consists of 3 major modules
    *	Calendar: Can see the calendar<br>
    *	Projects:  user can view the projects.<br>
    *	My Project: user can see previous uploaded projects.<br>
-  *	Documentation: User can do documentation.<br>
-  *	Upload: User can upload the documents and project.<br>
-  *	View: user can also view the documentation.<br>
-  *	Knowledge: User read the knowledge articles uploaded.<br>
-  *	Chat: User can chat to obtain information
+   *	Documentation: User can do documentation.<br>
+   *	Upload: User can upload the documents and project.<br>
+   *	View: user can also view the documentation.<br>
+   *	Knowledge: User read the knowledge articles uploaded.<br>
+   *	Chat: User can chat to obtain information
 <br>
