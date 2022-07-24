@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HARSHA
+Build-Jdk: 17.0.3
+Class-Path: lib/mavenproject1-1.0-SNAPSHOT.jar lib/net.java.html-1.7.jar
+  lib/net.java.html.json-1.7.jar lib/net.java.html.sound-1.7.jar lib/ko4
+ j-1.7.jar lib/mavenproject1-js-1.0-SNAPSHOT.jar lib/emul-0.32-rt.jar li
+ b/net.java.html.boot-1.7.jar
+Main-Class: com.mycompany.mavenproject1.BrowserMain
+Created-By: Maven Integration for Eclipse
+
