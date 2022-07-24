@@ -67,3 +67,27 @@ This Java project consists of 3 major modules
    *	Knowledge: User read the knowledge articles uploaded.<br>
    *	Chat: User can chat to obtain information
 <br>
+
+project screenshots
+<br>
+project ui<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/ui.png)
+<br>
+home<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/hpme.png)
+<br>
+admin login<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin login.png)
+<br>admin module ui<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin module.png)
+<br>teacher login<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher login.png)
+<br>teacher module<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher module.png)
+<br>student login<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/studentlogin.png)
+<br>student module<br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/student module.png)
+<br> my SQL database <br>
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/database.png)
+<br>
