@@ -70,25 +70,25 @@ This Java project consists of 3 major modules
 
 project screenshots
 <br>
-project ui<br>
+project ui<br>✨✨✨✨✨✨
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/ui.png)
-<br>
+<br>✨✨✨✨✨✨
 home<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/home.png)
-<br>
+<br>✨✨✨✨✨✨
 admin login<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin%20login.png)
-<br>admin module ui<br>
+<br>✨✨✨✨✨✨admin module ui<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin%20module.png)
-<br>teacher login<br>
+<br>✨✨✨✨✨✨teacher login<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher%20login.png)
-<br>teacher module<br>
+<br>✨✨✨✨✨✨teacher module<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher%20module.png)
-<br>student login<br>
+<br>✨✨✨✨✨✨student login<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/studentlogin.png)
-<br>student module<br>
+<br>✨✨✨✨✨✨student module<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/student%20module.png)
-<br> my SQL database <br>
+<br> ✨✨✨✨✨✨my SQL database <br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/database.png)
 <br>
 ✨✨✨✨✨✨✨✨✨✨✨✨![image.jpg](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gifv)✨✨✨✨✨✨✨✨✨
