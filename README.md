@@ -68,7 +68,7 @@ This Java project consists of 3 major modules
    *	Chat: User can chat to obtain information
 <br>
 
-project screenshots
+👉👉👉👉👉👉project screenshots
 <br>
 project ui<br>✨✨✨✨✨✨
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/ui.png)
