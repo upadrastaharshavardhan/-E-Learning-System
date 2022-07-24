@@ -74,20 +74,20 @@ project ui<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/ui.png)
 <br>
 home<br>
-![image.png](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/hpme.png)
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/home.png)
 <br>
 admin login<br>
-![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin login.png)
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin%20login.png)
 <br>admin module ui<br>
-![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin module.png)
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin%20module.png)
 <br>teacher login<br>
-![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher login.png)
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher%20login.png)
 <br>teacher module<br>
-![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher module.png)
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/teacher%20module.png)
 <br>student login<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/studentlogin.png)
 <br>student module<br>
-![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/student module.png)
+![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/student%20module.png)
 <br> my SQL database <br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/database.png)
 <br>
