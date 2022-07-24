@@ -74,7 +74,7 @@ project ui<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/ui.png)
 <br>
 home<br>
-![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/hpme.png)
+![image.png](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/hpme.png)
 <br>
 admin login<br>
 ![image.jpg](https://github.com/upadrastaharshavardhan/E-Learning-System/blob/main/screenshots/admin login.png)
